@@ -6,12 +6,12 @@
 
 Welcome to the Maya Custom Controller UI script! This tool simplifies your rigging workflow with an intuitive interface for creating and modifying control curves in Autodesk Maya.
 
-### Features<br/>
-Only Ctrl: Quickly create and parent controllers to your selected objects.<br/>
-Constraint: Automatically set up controllers with constraints.<br/>
-Joint Based: Easily generate joint-based controllers.<br/>
-Connection: Create controllers that directly connect to object attributes for precise control.<br/>
-Change Shape: Need a different look? Swap out the shape of existing controllers with just a few clicks.<br/>
+## Features<br/>
+* **Shape Library:** Create various control shapes via icon buttons.<br/>
+* **Auto-Offset:** Automatically generates a hierarchy of offset/SDK groups.<br/>
+* **Text Curves:** Quickly turn text strings into clean NURBS control shapes.<br/>
+* **Color Palette:** 31-color override palette for quick rig organization.<br/>
+* **Utility Tools:** Change existing shapes, combine shapes, and adjust line width.<br/>
 
 ### Installation
 Download the Script.<br/>
